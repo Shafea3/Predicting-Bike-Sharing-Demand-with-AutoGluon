@@ -1,0 +1,18 @@
+
+ macOS system files
+.DS_Store
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+.venv/
+env/
+*.egg-info/
+pip-wheel-metadata/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Kaggle credentials
+.kaggle/
+kaggle.json
